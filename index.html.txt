@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CyberCrey - Licencias Originales</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f9; }
+header { background: linear-gradient(135deg,#0a2540,#1e3a8a); color: white; padding: 60px 20px; text-align: center; }
+header h1 { font-size: 40px; margin-bottom: 10px; }
+header p { font-size: 18px; }
+.btn { background: #25D366; color: white; padding: 15px 25px; border-radius: 8px; text-decoration: none; display: inline-block; margin-top: 20px; }
+section { padding: 50px 20px; text-align: center; }
+.products { display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; }
+.card { background: white; padding: 20px; width: 280px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); transition: transform 0.3s; }
+.card:hover { transform: translateY(-5px); }
+.card img { width: 100%; border-radius: 10px; }
+.price { font-size: 20px; color: #1e3a8a; font-weight: bold; }
+footer { background: #0a2540; color: white; text-align: center; padding: 20px; }
+</style>
+</head>
+<body>
+
+<header>
+<h1>CyberCrey</h1>
+<p>Licencias originales de software con entrega inmediata en todo Perú</p>
+<a class="btn" href="https://wa.me/51984816155?text=Hola,%20quiero%20comprar%20una%20licencia">Comprar por WhatsApp</a>
+</header>
+
+<section>
+<h2>🔥 Nuestros Productos</h2>
+<div class="products">
+
+<div class="card">
+<img src="imagenes/kaspersky.png">
+<h3>Kaspersky Antivirus</h3>
+<p class="price">Desde S/ 25</p>
+<p>Protección completa contra virus y malware.</p>
+<a class="btn" href="https://wa.me/51984816155?text=Hola,%20quiero%20Kaspersky">Comprar</a>
+</div>
+
+<div class="card">
+<img src="imagenes/kaspersky.png">
+<h3>Kaspersky Antivirus</h3>
+<p class="price">Desde S/ 25</p>
+<p>Protección completa contra virus y malware.</p>
+<a class="btn" href="https://wa.me/51984816155?text=Hola,%20quiero%20Kaspersky">Comprar</a>
+</div>
+
+<div class="card">
+<img src="imagenes/adobe.png">
+<h3>Adobe Creative Cloud</h3>
+<p class="price">Desde S/ 30</p>
+<p>Photoshop, Illustrator, Premiere y más.</p>
+<a class="btn" href="https://wa.me/51984816155?text=Hola,%20quiero%20Adobe">Comprar</a>
+</div>
+
+<div class="card">
+<img src="imagenes/autocad.png">
+<h3>AutoCAD / Civil 3D</h3>
+<p class="price">Desde S/ 40</p>
+<p>Software profesional para ingeniería y diseño.</p>
+<a class="btn" href="https://wa.me/51984816155?text=Hola,%20quiero%20AutoCAD">Comprar</a>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>💯 ¿Por qué elegir CyberCrey?</h2>
+<p>✔ Licencias originales</p>
+<p>✔ Entrega inmediata</p>
+<p>✔ Soporte técnico GRATIS</p>
+<p>✔ Atención rápida por WhatsApp</p>
+</section>
+
+<section>
+<h2>🚀 Compra rápida y segura</h2>
+<p>Recibe tu licencia en minutos y activa tu software sin complicaciones</p>
+<a class="btn" href="https://wa.me/51984816155?text=Hola,%20quiero%20información">Hablar por WhatsApp</a>
+</section>
+
+<footer>
+<p>© 2026 CyberCrey - Todos los derechos reservados</p>
+</footer>
+
+</body>
+</html>
